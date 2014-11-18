@@ -54,3 +54,7 @@ C:\Users\Catherine\Desktop\MIS 740 Group Project\EmpClock.v04\TheEmployeesClock\
 C:\Users\Catherine\Desktop\MIS 740 Group Project\EmpClock.v04\TheEmployeesClock\TheEmployeesClock\obj\x86\Debug\TheEmployeesClock.frmUpdateProject.resources
 C:\Users\Catherine\Desktop\MIS 740 Group Project\EmpClock.v04\TheEmployeesClock\TheEmployeesClock\obj\x86\Debug\TheEmployeesClock.Resources.resources
 C:\Users\Catherine\Desktop\MIS 740 Group Project\EmpClock.v04\TheEmployeesClock\TheEmployeesClock\obj\x86\Debug\TheEmployeesClock.vbproj.GenerateResource.Cache
+C:\Users\Nathan\Dropbox\MIS-Emp-Clock\EmpClock.v04\TheEmployeesClock\TheEmployeesClock\bin\Debug\TheEmployeesClock.exe.config
+C:\Users\Nathan\Dropbox\MIS-Emp-Clock\EmpClock.v04\TheEmployeesClock\TheEmployeesClock\obj\x86\Debug\TheEmployeesClock.exe
+C:\Users\Nathan\Dropbox\MIS-Emp-Clock\EmpClock.v04\TheEmployeesClock\TheEmployeesClock\obj\x86\Debug\TheEmployeesClock.xml
+C:\Users\Nathan\Dropbox\MIS-Emp-Clock\EmpClock.v04\TheEmployeesClock\TheEmployeesClock\obj\x86\Debug\TheEmployeesClock.pdb
