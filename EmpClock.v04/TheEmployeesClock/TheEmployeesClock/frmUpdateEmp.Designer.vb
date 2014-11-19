@@ -52,7 +52,7 @@ Partial Class frmUpdateEmp
         Me.txtEmail.Margin = New System.Windows.Forms.Padding(4, 4, 4, 4)
         Me.txtEmail.Name = "txtEmail"
         Me.txtEmail.Size = New System.Drawing.Size(208, 22)
-        Me.txtEmail.TabIndex = 56
+        Me.txtEmail.TabIndex = 15
         '
         'Label1
         '
@@ -61,7 +61,7 @@ Partial Class frmUpdateEmp
         Me.Label1.Margin = New System.Windows.Forms.Padding(4, 0, 4, 0)
         Me.Label1.Name = "Label1"
         Me.Label1.Size = New System.Drawing.Size(42, 17)
-        Me.Label1.TabIndex = 55
+        Me.Label1.TabIndex = 14
         Me.Label1.Text = "Email"
         '
         'lblEmpPay
@@ -71,7 +71,7 @@ Partial Class frmUpdateEmp
         Me.lblEmpPay.Margin = New System.Windows.Forms.Padding(4, 0, 4, 0)
         Me.lblEmpPay.Name = "lblEmpPay"
         Me.lblEmpPay.Size = New System.Drawing.Size(66, 17)
-        Me.lblEmpPay.TabIndex = 54
+        Me.lblEmpPay.TabIndex = 16
         Me.lblEmpPay.Text = "Pay Rate"
         '
         'txtPayRate
@@ -80,7 +80,7 @@ Partial Class frmUpdateEmp
         Me.txtPayRate.Margin = New System.Windows.Forms.Padding(4, 4, 4, 4)
         Me.txtPayRate.Name = "txtPayRate"
         Me.txtPayRate.Size = New System.Drawing.Size(120, 22)
-        Me.txtPayRate.TabIndex = 53
+        Me.txtPayRate.TabIndex = 17
         '
         'txtEmpID
         '
@@ -88,7 +88,7 @@ Partial Class frmUpdateEmp
         Me.txtEmpID.Margin = New System.Windows.Forms.Padding(4, 4, 4, 4)
         Me.txtEmpID.Name = "txtEmpID"
         Me.txtEmpID.Size = New System.Drawing.Size(132, 22)
-        Me.txtEmpID.TabIndex = 52
+        Me.txtEmpID.TabIndex = 5
         '
         'lblEmpNameL
         '
@@ -97,7 +97,7 @@ Partial Class frmUpdateEmp
         Me.lblEmpNameL.Margin = New System.Windows.Forms.Padding(4, 0, 4, 0)
         Me.lblEmpNameL.Name = "lblEmpNameL"
         Me.lblEmpNameL.Size = New System.Drawing.Size(142, 17)
-        Me.lblEmpNameL.TabIndex = 51
+        Me.lblEmpNameL.TabIndex = 2
         Me.lblEmpNameL.Text = "Employee Last Name"
         '
         'txtZip
@@ -106,7 +106,7 @@ Partial Class frmUpdateEmp
         Me.txtZip.Margin = New System.Windows.Forms.Padding(4, 4, 4, 4)
         Me.txtZip.Name = "txtZip"
         Me.txtZip.Size = New System.Drawing.Size(120, 22)
-        Me.txtZip.TabIndex = 47
+        Me.txtZip.TabIndex = 13
         '
         'txtState
         '
@@ -114,7 +114,7 @@ Partial Class frmUpdateEmp
         Me.txtState.Margin = New System.Windows.Forms.Padding(4, 4, 4, 4)
         Me.txtState.Name = "txtState"
         Me.txtState.Size = New System.Drawing.Size(67, 22)
-        Me.txtState.TabIndex = 46
+        Me.txtState.TabIndex = 11
         '
         'txtCity
         '
@@ -122,7 +122,7 @@ Partial Class frmUpdateEmp
         Me.txtCity.Margin = New System.Windows.Forms.Padding(4, 4, 4, 4)
         Me.txtCity.Name = "txtCity"
         Me.txtCity.Size = New System.Drawing.Size(132, 22)
-        Me.txtCity.TabIndex = 45
+        Me.txtCity.TabIndex = 9
         '
         'txtStreetAddr
         '
@@ -130,7 +130,7 @@ Partial Class frmUpdateEmp
         Me.txtStreetAddr.Margin = New System.Windows.Forms.Padding(4, 4, 4, 4)
         Me.txtStreetAddr.Name = "txtStreetAddr"
         Me.txtStreetAddr.Size = New System.Drawing.Size(223, 22)
-        Me.txtStreetAddr.TabIndex = 44
+        Me.txtStreetAddr.TabIndex = 7
         '
         'txtEmpLastName
         '
@@ -138,7 +138,7 @@ Partial Class frmUpdateEmp
         Me.txtEmpLastName.Margin = New System.Windows.Forms.Padding(4, 4, 4, 4)
         Me.txtEmpLastName.Name = "txtEmpLastName"
         Me.txtEmpLastName.Size = New System.Drawing.Size(132, 22)
-        Me.txtEmpLastName.TabIndex = 43
+        Me.txtEmpLastName.TabIndex = 3
         '
         'txtEmpFirstName
         '
@@ -146,7 +146,7 @@ Partial Class frmUpdateEmp
         Me.txtEmpFirstName.Margin = New System.Windows.Forms.Padding(4, 4, 4, 4)
         Me.txtEmpFirstName.Name = "txtEmpFirstName"
         Me.txtEmpFirstName.Size = New System.Drawing.Size(132, 22)
-        Me.txtEmpFirstName.TabIndex = 42
+        Me.txtEmpFirstName.TabIndex = 1
         '
         'lblClientZip
         '
@@ -155,7 +155,7 @@ Partial Class frmUpdateEmp
         Me.lblClientZip.Margin = New System.Windows.Forms.Padding(4, 0, 4, 0)
         Me.lblClientZip.Name = "lblClientZip"
         Me.lblClientZip.Size = New System.Drawing.Size(65, 17)
-        Me.lblClientZip.TabIndex = 41
+        Me.lblClientZip.TabIndex = 12
         Me.lblClientZip.Text = "Zip Code"
         '
         'lblClientState
@@ -165,7 +165,7 @@ Partial Class frmUpdateEmp
         Me.lblClientState.Margin = New System.Windows.Forms.Padding(4, 0, 4, 0)
         Me.lblClientState.Name = "lblClientState"
         Me.lblClientState.Size = New System.Drawing.Size(41, 17)
-        Me.lblClientState.TabIndex = 40
+        Me.lblClientState.TabIndex = 10
         Me.lblClientState.Text = "State"
         '
         'lblClientCity
@@ -175,7 +175,7 @@ Partial Class frmUpdateEmp
         Me.lblClientCity.Margin = New System.Windows.Forms.Padding(4, 0, 4, 0)
         Me.lblClientCity.Name = "lblClientCity"
         Me.lblClientCity.Size = New System.Drawing.Size(31, 17)
-        Me.lblClientCity.TabIndex = 39
+        Me.lblClientCity.TabIndex = 8
         Me.lblClientCity.Text = "City"
         '
         'lblClientAddr
@@ -185,7 +185,7 @@ Partial Class frmUpdateEmp
         Me.lblClientAddr.Margin = New System.Windows.Forms.Padding(4, 0, 4, 0)
         Me.lblClientAddr.Name = "lblClientAddr"
         Me.lblClientAddr.Size = New System.Drawing.Size(102, 17)
-        Me.lblClientAddr.TabIndex = 38
+        Me.lblClientAddr.TabIndex = 6
         Me.lblClientAddr.Text = "Street Address"
         '
         'lblEmpID
@@ -195,7 +195,7 @@ Partial Class frmUpdateEmp
         Me.lblEmpID.Margin = New System.Windows.Forms.Padding(4, 0, 4, 0)
         Me.lblEmpID.Name = "lblEmpID"
         Me.lblEmpID.Size = New System.Drawing.Size(87, 17)
-        Me.lblEmpID.TabIndex = 37
+        Me.lblEmpID.TabIndex = 4
         Me.lblEmpID.Text = "Employee ID"
         '
         'lblEmpNameF
@@ -205,7 +205,7 @@ Partial Class frmUpdateEmp
         Me.lblEmpNameF.Margin = New System.Windows.Forms.Padding(4, 0, 4, 0)
         Me.lblEmpNameF.Name = "lblEmpNameF"
         Me.lblEmpNameF.Size = New System.Drawing.Size(142, 17)
-        Me.lblEmpNameF.TabIndex = 36
+        Me.lblEmpNameF.TabIndex = 0
         Me.lblEmpNameF.Text = "Employee First Name"
         '
         'btnClose
@@ -214,7 +214,7 @@ Partial Class frmUpdateEmp
         Me.btnClose.Margin = New System.Windows.Forms.Padding(4, 4, 4, 4)
         Me.btnClose.Name = "btnClose"
         Me.btnClose.Size = New System.Drawing.Size(100, 28)
-        Me.btnClose.TabIndex = 60
+        Me.btnClose.TabIndex = 21
         Me.btnClose.Text = "Exit"
         Me.btnClose.UseVisualStyleBackColor = True
         '
@@ -224,7 +224,7 @@ Partial Class frmUpdateEmp
         Me.btnRemove.Margin = New System.Windows.Forms.Padding(4, 4, 4, 4)
         Me.btnRemove.Name = "btnRemove"
         Me.btnRemove.Size = New System.Drawing.Size(100, 28)
-        Me.btnRemove.TabIndex = 59
+        Me.btnRemove.TabIndex = 20
         Me.btnRemove.Text = "Delete"
         Me.btnRemove.UseVisualStyleBackColor = True
         '
@@ -234,7 +234,7 @@ Partial Class frmUpdateEmp
         Me.btnDeactivate.Margin = New System.Windows.Forms.Padding(4, 4, 4, 4)
         Me.btnDeactivate.Name = "btnDeactivate"
         Me.btnDeactivate.Size = New System.Drawing.Size(100, 28)
-        Me.btnDeactivate.TabIndex = 58
+        Me.btnDeactivate.TabIndex = 19
         Me.btnDeactivate.Text = "Deactivate"
         Me.btnDeactivate.UseVisualStyleBackColor = True
         '
@@ -244,7 +244,7 @@ Partial Class frmUpdateEmp
         Me.btnUupdate.Margin = New System.Windows.Forms.Padding(4, 4, 4, 4)
         Me.btnUupdate.Name = "btnUupdate"
         Me.btnUupdate.Size = New System.Drawing.Size(100, 28)
-        Me.btnUupdate.TabIndex = 57
+        Me.btnUupdate.TabIndex = 18
         Me.btnUupdate.Text = "Update"
         Me.btnUupdate.UseVisualStyleBackColor = True
         '

@@ -58,3 +58,17 @@ C:\Users\Nathan\Dropbox\MIS-Emp-Clock\EmpClock.v04\TheEmployeesClock\TheEmployee
 C:\Users\Nathan\Dropbox\MIS-Emp-Clock\EmpClock.v04\TheEmployeesClock\TheEmployeesClock\obj\x86\Debug\TheEmployeesClock.exe
 C:\Users\Nathan\Dropbox\MIS-Emp-Clock\EmpClock.v04\TheEmployeesClock\TheEmployeesClock\obj\x86\Debug\TheEmployeesClock.xml
 C:\Users\Nathan\Dropbox\MIS-Emp-Clock\EmpClock.v04\TheEmployeesClock\TheEmployeesClock\obj\x86\Debug\TheEmployeesClock.pdb
+C:\Users\Nathan\Dropbox\MIS-Emp-Clock\EmpClock.v04\TheEmployeesClock\TheEmployeesClock\bin\Debug\TheEmployeesClock.dB.accdb
+C:\Users\Nathan\Dropbox\MIS-Emp-Clock\EmpClock.v04\TheEmployeesClock\TheEmployeesClock\bin\Debug\TheEmployeesClock.exe
+C:\Users\Nathan\Dropbox\MIS-Emp-Clock\EmpClock.v04\TheEmployeesClock\TheEmployeesClock\bin\Debug\TheEmployeesClock.pdb
+C:\Users\Nathan\Dropbox\MIS-Emp-Clock\EmpClock.v04\TheEmployeesClock\TheEmployeesClock\bin\Debug\TheEmployeesClock.xml
+C:\Users\Nathan\Dropbox\MIS-Emp-Clock\EmpClock.v04\TheEmployeesClock\TheEmployeesClock\obj\x86\Debug\TheEmployeesClock.frmManualAdd.resources
+C:\Users\Nathan\Dropbox\MIS-Emp-Clock\EmpClock.v04\TheEmployeesClock\TheEmployeesClock\obj\x86\Debug\TheEmployeesClock.frmNewProject.resources
+C:\Users\Nathan\Dropbox\MIS-Emp-Clock\EmpClock.v04\TheEmployeesClock\TheEmployeesClock\obj\x86\Debug\TheEmployeesClock.frmNewClient.resources
+C:\Users\Nathan\Dropbox\MIS-Emp-Clock\EmpClock.v04\TheEmployeesClock\TheEmployeesClock\obj\x86\Debug\TheEmployeesClock.frmNewEmp.resources
+C:\Users\Nathan\Dropbox\MIS-Emp-Clock\EmpClock.v04\TheEmployeesClock\TheEmployeesClock\obj\x86\Debug\TheEmployeesClock.frmEmpsClock.resources
+C:\Users\Nathan\Dropbox\MIS-Emp-Clock\EmpClock.v04\TheEmployeesClock\TheEmployeesClock\obj\x86\Debug\TheEmployeesClock.frmUpdateClient.resources
+C:\Users\Nathan\Dropbox\MIS-Emp-Clock\EmpClock.v04\TheEmployeesClock\TheEmployeesClock\obj\x86\Debug\TheEmployeesClock.frmUpdateEmp.resources
+C:\Users\Nathan\Dropbox\MIS-Emp-Clock\EmpClock.v04\TheEmployeesClock\TheEmployeesClock\obj\x86\Debug\TheEmployeesClock.frmUpdateProject.resources
+C:\Users\Nathan\Dropbox\MIS-Emp-Clock\EmpClock.v04\TheEmployeesClock\TheEmployeesClock\obj\x86\Debug\TheEmployeesClock.Resources.resources
+C:\Users\Nathan\Dropbox\MIS-Emp-Clock\EmpClock.v04\TheEmployeesClock\TheEmployeesClock\obj\x86\Debug\TheEmployeesClock.vbproj.GenerateResource.Cache
